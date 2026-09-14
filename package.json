@@ -1,0 +1,8 @@
+{
+  "name": "me.oftheloneliness",
+  "author": "oftheloneliness <ahowevesybleberg@gmail.com>",
+  "scripts": {},
+  "dependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
