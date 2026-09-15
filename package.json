@@ -1,8 +1,15 @@
 {
-  "name": "me.oftheloneliness",
-  "author": "oftheloneliness <ahowevesybleberg@gmail.com>",
-  "scripts": {},
-  "dependencies": {
-    "esbuild": "^0.28.2"
-  }
+    "dependencies": {
+        "@astrojs/check": "^0.9.10",
+        "astro": "^7.3.2"
+    },
+    "scripts": {
+        "dev": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview",
+        "t": "astro check"
+    },
+    "devDependencies": {
+        "typescript": "^6.0.3"
+    }
 }
